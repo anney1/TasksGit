@@ -1,0 +1,7 @@
+CREATE USER 'admin'@'40.75.83.157' IDENTIFIED BY 'Abcd@1234';
+GRANT ALL PRIVILEGES ON jiradb.* TO 'admin'@'40.75.83.157';
+flush privileges;
+
+CREATE USER 'admin'@'172.203.18.194' IDENTIFIED BY 'Abcd@1234';
+GRANT ALL PRIVILEGES ON jiradb.* TO 'admin'@'172.203.18.194';
+flush privileges;
