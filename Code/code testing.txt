@@ -1,0 +1,22 @@
+End Date: {{lookupIssues.customfield_10979.max}}
+
+Epic: Core Concept Basics
+Feature: Study for AZ-900 (Week A-1)
+
+Task: Read study guide
+
+Task: Take practice exams
+
+Task: AZ-900 Practice Assessment
+
+Epic: Storage & Keyvault
+Feature: Learn Storage Basics (Week A-2)
+
+Task: Read documentation
+
+Task: Implement sample project
+
+Task: Panel Interview Preparation
+
+Epic: Networking
+Feature: Networking Basics (Week A-2)
